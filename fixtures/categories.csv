@@ -1,0 +1,3 @@
+name,url_key,path,active,is_anchor,include_in_menu,position,display_mode,page_layout,custom_layout_update,require_media
+Sample Category 1,sample-category-1,,1,0,1,100,PAGE,,,1
+Sample Category 2,Sample-category-2,,1,0,1,200,PAGE,,,1

@@ -1,0 +1,16 @@
+{
+    "name": "unet/sample-data",
+    "description": "Static sample data for Magento 2",
+    "type": "mganeot2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duc Dao",
+            "email": "huuduc.uneti@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "php": "~5.6.0|~7.0.6"
+    }
+}
